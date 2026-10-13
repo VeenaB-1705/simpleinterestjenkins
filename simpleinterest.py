@@ -9,3 +9,4 @@ if __name__ =="__main__":
     t = int(sys.argv[3])
 
     print("simple interest:",simInt(p,i,t))
+    print("File name is ",sys.argv[0])
